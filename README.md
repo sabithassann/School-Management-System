@@ -5,6 +5,9 @@ Implement secure user authentication and authorization mechanisms to control acc
 ![ Login page](https://github.com/sabithassann/School-Management-System/blob/main/screenshotSwing/login_1.png)
 :pushpin: Dashboard:
 ![ Dashboard page](https://github.com/sabithassann/School-Management-System/blob/main/screenshotSwing/dashboard_2.png)
+:pushpin: Dashboard of Total Student,Staff and Teacher :
+In This Dashboard The Total Student, Staff and Teacher Will show
+![ Dashboard page](https://github.com/sabithassann/School-Management-System/blob/main/screenshotSwing/dashboardData.png)
 :pushpin: Admission:
 Automatically show class roll available if any class selected
 ![ Admission page](https://github.com/sabithassann/School-Management-System/blob/main/screenshotSwing/admission_3.png)
