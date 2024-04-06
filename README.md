@@ -1,6 +1,45 @@
 # School-Management-System
+School Management System Using Java Swing
+# School-Management-System Dekstop Application
+Developed a Java Swing application for school management, featuring teacher, staff, and class management, student admissions, attendance tracking, and payment management.
+
+-----------------   ---------------------------------------------
+## Features
+
+- User-friendly dashboard
+- Teacher and staff management
+- Student admission
+- Attendance tracking
+- Payment slip generation.
+- Password Reset
+
+
+
+## Technologies used:-
+
+
+<p align="left">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="swing" width="40" height="40"/>
+
+</p>
+
+
+
+
+**==== Software And Tools Required ======**
+- :  MySQL
+- :  Apache NetBeans
+- :  Java JDK 8+
+
+
 :pushpin: Login page for Admin:
-Implement secure user authentication and authorization mechanisms to control access to sensitive features and data, ensuring data integrity and confidentiality.
+
 
 ![ Login page](https://github.com/sabithassann/School-Management-System/blob/main/screenshotSwing/login_1.png)
 :pushpin: Dashboard:
